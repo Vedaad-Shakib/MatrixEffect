@@ -1,4 +1,4 @@
 MatrixEffect
 ============
 
-This repository creates the code effect seen in "The Matrix" movie.
+This creates the code effect seen in "The Matrix" movie.
